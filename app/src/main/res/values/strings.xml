@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Button.Enabled">Button Enabled</string>
+    <string name="Button.Disabled">Button Disabled</string>
+
+    <string name="Button.Step1">Run Step1</string>
+    <string name="Button.Step2">Run Step2</string>
+    <string name="Button.Step3">Run Step3</string>
+
+</resources>

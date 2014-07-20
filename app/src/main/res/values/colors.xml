@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color">#ffffaab3</color>
+    <color name="highlight_color">#f00</color>
+
+    <color name="button_blue_color">#ff9b9cff</color>
+    <color name="button_blue_highlight_color">#00f</color>
+
+    <color name="button_green_color">#ffb4ffb4</color>
+    <color name="button_green_highlight_color">#ff00cd00</color>
+</resources>

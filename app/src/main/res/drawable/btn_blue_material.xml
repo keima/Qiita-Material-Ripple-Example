@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/button_blue_highlight_color">
+
+    <item>
+        <nine-patch android:src="@drawable/btn_file"
+            android:tint="@color/btn_blue_material" />
+    </item>
+
+</ripple>

@@ -1,0 +1,38 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:colorPrimary">#ff366366</item>
+        <item name="android:colorPrimaryDark">#ff366366</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:actionMenuTextColor">@android:color/black</item>
+        <item name="android:itemTextAppearance">@style/MenuTextAppearance</item>
+        <item name="android:navigationBarColor">#ff366366</item>
+
+        <!-- Step 1 -->
+        <item name="android:colorControlHighlight">@color/highlight_color</item>
+        <item name="android:colorButtonNormal">@color/btn_material</item>
+    </style>
+
+    <style name="MenuTextAppearance" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+    <style name="AppTheme.Button" parent="android:Widget.Material.Button">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <!-- AppTheme.Button.Step1 is not exist, yeh. -->
+
+    <style name="AppTheme.Button.Step2">
+        <item name="android:background">@drawable/btn_blue_material</item>
+    </style>
+
+    <style name="AppTheme.Button.Step3">
+        <item name="android:background">@drawable/btn_green_material</item>
+    </style>
+
+</resources>
